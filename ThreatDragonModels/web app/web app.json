@@ -1,0 +1,31 @@
+{
+  "version": "2.0.3",
+  "summary": {
+    "title": "web app",
+    "owner": "talha",
+    "description": "app test",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "hacker"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "web app",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.0.3",
+        "cells": [],
+        "description": "web app test"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "hacker",
+    "threatTop": 0
+  }
+}
